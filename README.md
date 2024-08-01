@@ -50,7 +50,7 @@ I hope you find OpenWord to be a helpful and easy-to-use text editor. Your feedb
 If you have any suggestions, comments, or questions, please don't hesitate to reach out. You can connect with me on LinkedIn or visit my GitHub.
 
 ## Contact
-If you would like to get the password for the ZIP file or have any other inquiries, please email me at: sumitsaha1508@gmail.com
+If you would like to get the password for the ZIP file or have any other inquiries, please email me at: sumitworks1508@gmail.com
 
 ## Acknowledgements
 Thank you for using OpenWord! I hope it provides you with a straightforward and efficient text editing experience.
