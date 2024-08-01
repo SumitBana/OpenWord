@@ -5,7 +5,10 @@
 
 **Author:** Sumit Saha  
 
-**Setup Link :**  https://drive.google.com/file/d/14yM56_1Y3szkgbsaw2uF3lVPyTNDnvmr/view?usp=sharing
+**Setup Link :** 
+- Mega         : https://mega.nz/file/4vR1jKJD#22eK_jLpsp_nKTXwEHkRVwrqUIKefbUon1tgK0-JMYE
+- Google Drive : https://drive.google.com/file/d/14yM56_1Y3szkgbsaw2uF3lVPyTNDnvmr/view?usp=sharing (Maybe Slow)
+
 
 ## Description
 
