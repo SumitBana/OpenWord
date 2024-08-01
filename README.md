@@ -53,5 +53,5 @@ If you have any suggestions, comments, or questions, please don't hesitate to re
 If you would like to get the password for the ZIP file or have any other inquiries, please email me at: sumitsaha1508@gmail.com
 
 ## Acknowledgements
-Thank you for using OpenWord! We hope it provides you with a straightforward and efficient text editing experience.
+Thank you for using OpenWord! I hope it provides you with a straightforward and efficient text editing experience.
 
