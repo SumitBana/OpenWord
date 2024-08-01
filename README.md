@@ -28,7 +28,7 @@ OpenWord aims to provide a straightforward and efficient text editing experience
 -  That's it :)
 
 ## Feedback
-I hope you find OpenWord to be a helpful and easy-to-use text editor. Your feedback is incredibly valuable to us as we strive to improve and enhance the application.
+I hope you find OpenWord to be a helpful and easy-to-use text editor. Your feedback is incredibly valuable to us as I strive to improve and enhance the application.
 
 If you have any suggestions, comments, or questions, please don't hesitate to reach out. You can connect with me on LinkedIn or visit my GitHub.
 
